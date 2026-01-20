@@ -28,42 +28,38 @@
 
   ---
 
+
   ### 🌐 Connect with Me
-  <div align="center">
-    
-    <a href="https://www.linkedin.com/in/sudipto-chakraborty-suvo/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    </a>
-    
-    <a href="mailto:sudiptochakrabortysuvo@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-    </a>
+  <a href="https://www.linkedin.com/in/sudipto-chakraborty-suvo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 
-    <a href="https://www.facebook.com/Acidki" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
-    </a>
+  <a href="mailto:sudiptochakrabortysuvo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
 
-    <a href="https://discord.com/users/acid_here" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
-    </a>
-  </div>
+  <a href="https://www.facebook.com/Acidki" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
+  </a>
+
+  <a href="https://discord.com/users/acid_here" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
+  </a>
 
   ### 🧩 Competitive Programming Profiles
-  <div align="center">
+  <a href="https://codeforces.com/profile/ACID_ki" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" target="_blank" />
+  </a>
 
-    <a href="https://codeforces.com/profile/ACID_ki" target="_blank">
-      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" target="_blank" />
-    </a>
+  <a href="https://www.hackerrank.com/profile/sudiptochakrabo2" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank" />
+  </a>
 
-    <a href="https://www.hackerrank.com/profile/sudiptochakrabo2"_blank">
-      <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank" />
-    </a>
+  <a href="https://www.kaggle.com/PUT_YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank" />
+  </a>
 
-    <a href="https://judge.beecrowd.com/en/profile/1205773" target="_blank">
-      <img src="https://img.shields.io/badge/Beecrowd-FCB712?style=for-the-badge&logo=c&logoColor=black" target="_blank" />
-    </a>
-
-    <a href="https://www.kaggle.com/acidki" target="_blank">
+</div>
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank" />
   </a>
 
