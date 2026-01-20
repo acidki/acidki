@@ -6,7 +6,7 @@
   
   ### 👨‍💻 About Me
   
-  Hi there! I'm **Sudipto Chakraborty Suvo**, but in the coding world, I go by **Acid**. 
+  Hi there! I'm **Sudipto Chakraborty Suvo**, but you may know me as **Acid**. 
   I am a passionate developer and competitive programmer who loves solving complex problems.
 
   ---
