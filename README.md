@@ -14,6 +14,7 @@
   ### 🏆 Achievements
   | 🏅 Contest/Platform | 🎖️ Rank/Badge | 📅 Details |
   | :--- | :--- | :--- |
+  | **LeetCode** | Max Rating: xxxx / Rank: xxxx | *Solved 300+ Problems* |
   | **Codeforces** | Max Rating: xxxx (Specialist/Expert) | *Solved 500+ Problems* |
   | **HackerRank** | 5 Star (Problem Solving) | *Gold Badge in C++* |
   | **Beecrowd** | Rank: Top 100 University | *Solved 200+ Problems* |
@@ -49,6 +50,9 @@
   ### 🧩 Competitive Programming Profiles
   <a href="https://judge.beecrowd.com/en/profile/1205773" target="_blank">
       <img src="https://img.shields.io/badge/Beecrowd-FCB712?style=for-the-badge&logo=beecrowd&logoColor=black" target="_blank" />
+    </a>
+ <a href="https://leetcode.com/u/acidki" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank" />
     </a>
   <a href="https://codeforces.com/profile/ACID_ki" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" target="_blank" />
