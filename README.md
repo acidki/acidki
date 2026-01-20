@@ -47,6 +47,9 @@
   </a>
 
   ### 🧩 Competitive Programming Profiles
+  <a href="https://judge.beecrowd.com/en/profile/1205773" target="_blank">
+      <img src="https://img.shields.io/badge/Beecrowd-FCB712?style=for-the-badge&logo=beecrowd&logoColor=black" target="_blank" />
+    </a>
   <a href="https://codeforces.com/profile/ACID_ki" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" target="_blank" />
   </a>
