@@ -55,12 +55,8 @@
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank" />
   </a>
 
-  <a href="https://www.kaggle.com/PUT_YOUR_USERNAME" target="_blank">
+  <a href="https://www.kaggle.com/acidki" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank" />
-  </a>
-
-</div>
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" target="_blank" />
   </a>
 
   </div>
