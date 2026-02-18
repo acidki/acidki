@@ -86,6 +86,13 @@
 
   ---
 
+
+<p align="center">
+  <img src="https://github-readme-pinstripe.vercel.app/api/pinstripe?color=007acc&width=600&height=15&speed=2" />
+</p>
+
+
+
 <h3>📊 GitHub Stats</h3>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=acidki&theme=tokyonight" height="180" />
