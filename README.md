@@ -27,11 +27,10 @@ Hi there! I'm **Sudipto Chakraborty Suvo**, but you may know me as **Acid**. I a
 ### 🛠 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,py,java,js,git,github,vscode,linux" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=arduino,blender,krita,csp,ae" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,java,js,git,github,vscode,linux,arduino,blender,krita,csp,ae" />
+  </a>
 </p>
-  ---
 
 
   ### 🌐 Connect with Me
