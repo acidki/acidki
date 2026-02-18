@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <i><img src="https://cdn.pixabay.com/animation/2023/04/24/13/41/13-41-11-209_512.gif" width="28px"> "Aerodynamically, the bumblebee shouldn't be able to fly, but the bumblebee doesn't know it so it goes on flying anyway 🐝"</i>
+  <i><img src="bee.gif" width="28px"> "Aerodynamically, the bumblebee shouldn't be able to fly, but the bumblebee doesn't know it so it goes on flying anyway 🐝"</i>
 </p>
 
 ---
