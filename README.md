@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=007acc&height=10&width=600&animation=twinkling" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="600" />
 </p>
 
 ---
