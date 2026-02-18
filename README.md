@@ -88,7 +88,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=007acc&height=2&width=600&animation=rectProgress" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZidGswYmF0eHRoYmF0eHRoYmF0eHRoYmF0eHRoYmF0eHRoJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7bu3XilJ5BOiSGic/giphy.gif" width="600" />
 </p>
 
 
