@@ -4,14 +4,26 @@
 
 <div align="center">
   
- ## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-Hi there! I'm **Sudipto Chakraborty Suvo**, but you may know me as **Acid**. I am a passionate developer, competitive programmer, and a creative artist. My work lives at the intersection of logic and creativity—whether I'm solving complex problems with code or bringing characters to life through animation.
+<p align="center">
+  Hi there! I'm <b>Sudipto Chakraborty Suvo</b>, better known in the dev community as <b>Acid</b>. <br>
+  I am a passionate <b>Developer</b> and <b>Competitive Programmer</b> who thrives on solving complex logical puzzles.
+</p>
 
-* **Software Dev:** Deep diving into competitive programming and building efficient solutions.
-* **Creative Arts:** Skilled animator and video editor specializing in 2D/3D workflows.
-* **Hardware:** Tinkering with Arduino and IoT to bridge the gap between software and the physical world.
-  ---
+<p align="center">
+  ✨ <b>What I Do:</b> ✨ <br>
+  🎮 <b>Game Dev:</b> Crafting immersive worlds using <b>Unity</b> and <b>Unreal Engine</b>. <br>
+  🎨 <b>Creative Arts:</b> Bringing stories to life through <b>2D/3D Animation</b> and <b>Video Editing</b>. <br>
+  ⚙️ <b>Hardware:</b> Building bridge-to-reality projects with <b>Arduino</b> and IoT. <br>
+  💡 <b>Philosophy:</b> I believe in the intersection of logic and creativity—where code meets art.
+</p>
+
+<p align="center">
+  <i>"Aerodynamically, the bumblebee shouldn't be able to fly, but the bumblebee doesn't know it so it goes on flying anyway 🐝"</i>
+</p>
+
+---
 
   <!--### 🏆 Achievements
   | 🏅 Contest/Platform | 🎖️ Rank/Badge | 📅 Details |
