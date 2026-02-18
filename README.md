@@ -26,11 +26,11 @@ Hi there! I'm **Sudipto Chakraborty Suvo**, but you may know me as **Acid**. I a
 
  ### 🛠 Languages & Tools
 
-#### 💻 Programming & Development
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,py,java,js,git,github,vscode,linux" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=arduino,blender,krita,csp,ae" />
+</p>
 
 #### 🎨 Creative & Animation
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
