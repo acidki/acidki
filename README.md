@@ -28,7 +28,7 @@ Hi there! I'm **Sudipto Chakraborty Suvo**, but you may know me as **Acid**. I a
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,py,java,js,git,github,vscode,linux,arduino,blender,krita,csp,ae,unity,unreal" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,java,js,git,github,vscode,linux,arduino,blender,ae,unity,unreal,krita,csp" />
   </a>
 </p>
   ### 🌐 Connect with Me
