@@ -21,7 +21,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-pinstripe.vercel.app/api/pinstripe?color=007acc&width=600&height=12&speed=1.5" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=007acc&height=2&width=600&animation=fadeIn&fontColor=007acc" />
+  <img src="https://github-readme-pinstripe.vercel.app/api/pinstripe?color=007acc&width=600&height=4&speed=2" />
 </p>
 
 ---
