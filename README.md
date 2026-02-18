@@ -88,7 +88,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-pinstripe.vercel.app/api/pinstripe?color=007acc&width=600&height=15&speed=2" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=007acc&height=2&width=600&animation=rectProgress" />
 </p>
 
 
