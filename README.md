@@ -70,12 +70,14 @@
 
   ---
 
- <h3>📊 GitHub Stats</h3>
+<h3>📊 GitHub Stats</h3>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=acidki&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=acidki&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acidki&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=acidki&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"/>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=acidki&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
 </div>
 
 <div align="center">
