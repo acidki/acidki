@@ -87,9 +87,7 @@
   ---
 
 
-<p align="center">
-  <img src="loading-bar.gif" width="600" />
-</p>
+
 
 
 
