@@ -21,11 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=60&section=footer&text=SYSTEM%20LOADING...&fontSize=20&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="600" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=007acc&height=2&width=600&animation=rectProgress" />
 </p>
 
 ---
