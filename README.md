@@ -21,6 +21,10 @@
 </p>
 
 <p align="center">
+  <i><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Honeybee.png" width="30px"> "Aerodynamically, the bumblebee shouldn't be able to fly, but the bumblebee doesn't know it so it goes on flying anyway 🐝"</i>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="600" />
 </p>
 
