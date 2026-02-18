@@ -4,7 +4,7 @@
 
 <div align="center">
   
-<h2 align="center">  Just Curious</h2>
+<h2 align="center">🎲 Just Curious</h2>
 
 <p align="center">
   I'm <b>Sudipto Chakraborty Suvo (Acid)</b>. <br>
@@ -21,8 +21,9 @@
 </p>
 
 <p align="center">
-  <i><img src="bee.gif" width="28px"> "Aerodynamically, the bumblebee shouldn't be able to fly, but the bumblebee doesn't know it so it goes on flying anyway 🐝"</i>
+  <i><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Honeybee.png" width="30px"> "Aerodynamically, the bumblebee shouldn't be able to fly, but the bumblebee doesn't know it so it goes on flying anyway 🐝"</i>
 </p>
+
 
 ---
 
