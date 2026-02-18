@@ -25,6 +25,14 @@
 </p>
 
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&width=600&height=25&section=header&reversal=false&text=SYSTEM%20LOADING...&fontSize=15&fontAlignY=60&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-pinstripe.vercel.app/api/pinstripe?color=007acc&width=600&height=10&speed=2" />
+</p>
+
 ---
 
   <!--### 🏆 Achievements
