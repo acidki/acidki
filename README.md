@@ -4,25 +4,27 @@
 
 <div align="center">
   
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">🎲 Just Curious</h2>
 
 <p align="center">
-  Hi there! I'm <b>Sudipto Chakraborty Suvo</b>, better known in the dev community as <b>Acid</b>. <br>
-  I am a passionate <b>Developer</b> and <b>Competitive Programmer</b> who thrives on solving complex logical puzzles.
+  I'm <b>Sudipto Chakraborty Suvo (Acid)</b>. <br>
+  I'm a <b>CS student</b>, but most of what I know comes from just wanting to figure out how things work. <br>
+  If it's interesting, I’ll probably try to build it, break it, or fly it.
 </p>
 
 <p align="center">
-  ✨ <b>What I Do:</b> ✨ <br>
-  🎮 <b>Game Dev:</b> Crafting immersive worlds using <b>Unity</b> and <b>Unreal Engine</b>. <br>
-  🎨 <b>Creative Arts:</b> Bringing stories to life through <b>2D/3D Animation</b> and <b>Video Editing</b>. <br>
-  ⚙️ <b>Hardware:</b> Building bridge-to-reality projects with <b>Arduino</b> and IoT. <br>
-  💡 <b>Philosophy:</b> I believe in the intersection of logic and creativity—where code meets art.
+  <b>Things I’ve messed around with:</b> <br>
+  🕹️ Built some <b>small indie games</b> and <b>simulations</b>. <br>
+  🎨 Spent a lot of time in <b>2D/3D Animation</b> and video editing. <br>
+  ✈️ Studied <b>aviation and flight mechanics</b> because airplanes are cool. <br>
+  🔌 Wired up <b>Arduino</b> projects to see code move things in real life.
 </p>
 
 <p align="center">
-  <i>"Aerodynamically, the bumblebee shouldn't be able to fly, but the bumblebee doesn't know it so it goes on flying anyway 🐝"</i>
+  <i><img src="https://raw.githubusercontent.com/mshahrulamin/mshahrulamin/master/assets/animated-bee.gif" width="22px"> "Aerodynamically, the bumblebee shouldn't be able to fly, but the bumblebee doesn't know it so it goes on flying anyway 🐝"</i>
 </p>
 
+---
 ---
 
   <!--### 🏆 Achievements
