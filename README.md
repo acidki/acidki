@@ -11,7 +11,7 @@
 
   ---
 
-  ### 🏆 Achievements
+  //### 🏆 Achievements
   | 🏅 Contest/Platform | 🎖️ Rank/Badge | 📅 Details |
   | :--- | :--- | :--- |
   | **LeetCode** | Max Rating: xxxx / Rank: xxxx | *Solved 300+ Problems* |
@@ -20,7 +20,7 @@
   | **Beecrowd** | Rank: Top 100 University | *Solved 200+ Problems* |
   | **Hackathon Name** | 🥇 1st Runner Up | *Built Project X* |
 
-  ---
+  ---//
 
   ### 🛠️ Languages & Tools
   <a href="https://skillicons.dev">
