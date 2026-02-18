@@ -28,11 +28,9 @@ Hi there! I'm **Sudipto Chakraborty Suvo**, but you may know me as **Acid**. I a
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,py,java,js,git,github,vscode,linux,arduino,blender,krita,csp,ae" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,java,js,git,github,vscode,linux,arduino,blender,krita,csp,ae,unity,unreal" />
   </a>
 </p>
-
-
   ### 🌐 Connect with Me
   <a href="https://www.linkedin.com/in/sudipto-chakraborty-suvo/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
