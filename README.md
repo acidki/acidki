@@ -88,7 +88,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-pinstripe.vercel.app/api/pinstripe?color=007acc&width=600&height=10&speed=1.5" />
+  <img src="loading-bar.gif" width="600" />
 </p>
 
 
