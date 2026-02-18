@@ -4,7 +4,7 @@
 
 <div align="center">
   
-<h2 align="center">🎲 Just Curious</h2>
+<h2 align="center"> Just Curious</h2>
 
 <p align="center">
   I'm <b>Sudipto Chakraborty Suvo (Acid)</b>. <br>
