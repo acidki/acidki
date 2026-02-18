@@ -24,19 +24,13 @@ Hi there! I'm **Sudipto Chakraborty Suvo**, but you may know me as **Acid**. I a
 
   --->
 
- ### 🛠 Languages & Tools
+### 🛠 Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,py,java,js,git,github,vscode,linux" />
   <br>
   <img src="https://skillicons.dev/icons?i=arduino,blender,krita,csp,ae" />
 </p>
-
-#### 🎨 Creative & Animation
-![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-20374B?style=for-the-badge&logo=krita&logoColor=A5A7B4)
-![Clip Studio Paint](https://img.shields.io/badge/Clip_Studio_Paint-2E2E2E?style=for-the-badge&logo=clipstudiopaint&logoColor=white)
-![Adobe Animate](https://img.shields.io/badge/Adobe%20Animate-FF0000?style=for-the-badge&logo=adobe-animate&logoColor=white)
   ---
 
 
