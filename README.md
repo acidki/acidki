@@ -4,11 +4,13 @@
 
 <div align="center">
   
-  ### 👨‍💻 About Me
-  
-  Hi there! I'm **Sudipto Chakraborty Suvo**, but you may know me as **Acid**. 
-  I am a passionate developer and competitive programmer who loves solving complex problems.
+ ## 👨‍💻 About Me
 
+Hi there! I'm **Sudipto Chakraborty Suvo**, but you may know me as **Acid**. I am a passionate developer, competitive programmer, and a creative artist. My work lives at the intersection of logic and creativity—whether I'm solving complex problems with code or bringing characters to life through animation.
+
+* **Software Dev:** Deep diving into competitive programming and building efficient solutions.
+* **Creative Arts:** Skilled animator and video editor specializing in 2D/3D workflows.
+* **Hardware:** Tinkering with Arduino and IoT to bridge the gap between software and the physical world.
   ---
 
   <!--### 🏆 Achievements
@@ -22,11 +24,19 @@
 
   --->
 
-  ### 🛠️ Languages & Tools
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,git,github,vscode,linux&perline=10" />
-  </a>
+ ### 🛠 Languages & Tools
 
+#### 💻 Programming & Development
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+#### 🎨 Creative & Animation
+![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-20374B?style=for-the-badge&logo=krita&logoColor=A5A7B4)
+![Clip Studio Paint](https://img.shields.io/badge/Clip_Studio_Paint-2E2E2E?style=for-the-badge&logo=clipstudiopaint&logoColor=white)
+![Adobe Animate](https://img.shields.io/badge/Adobe%20Animate-FF0000?style=for-the-badge&logo=adobe-animate&logoColor=white)
   ---
 
 
