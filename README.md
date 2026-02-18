@@ -21,16 +21,11 @@
 </p>
 
 <p align="center">
-  <i><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Honeybee.png" width="30px"> "Aerodynamically, the bumblebee shouldn't be able to fly, but the bumblebee doesn't know it so it goes on flying anyway 🐝"</i>
-</p>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&width=600&height=25&section=header&reversal=false&text=SYSTEM%20LOADING...&fontSize=15&fontAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=60&section=footer&text=SYSTEM%20LOADING...&fontSize=20&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-pinstripe.vercel.app/api/pinstripe?color=007acc&width=600&height=10&speed=2" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="600" />
 </p>
 
 ---
