@@ -4,7 +4,7 @@
 
 <div align="center">
   
-<h2 align="center"> Just Curious</h2>
+<h2 align="center">  Just Curious</h2>
 
 <p align="center">
   I'm <b>Sudipto Chakraborty Suvo (Acid)</b>. <br>
@@ -21,12 +21,9 @@
 </p>
 
 <p align="center">
-  <i><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3bmZ3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/h8mU2Y6pP2i5U0YxW3/giphy.gif" width="25px"> "Aerodynamically, the bumblebee shouldn't be able to fly, but the bumblebee doesn't know it so it goes on flying anyway 🐝"</i>
+  <i><img src="https://cdn.pixabay.com/animation/2023/04/24/13/41/13-41-11-209_512.gif" width="28px"> "Aerodynamically, the bumblebee shouldn't be able to fly, but the bumblebee doesn't know it so it goes on flying anyway 🐝"</i>
 </p>
 
----
-
----
 ---
 
   <!--### 🏆 Achievements
